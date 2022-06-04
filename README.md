@@ -1,6 +1,6 @@
 # Docker container for TOBIAS
 
-Dockerfile for [TOBIAS](https://github.com/loosolab/TOBIAS): ranscription factor Occupancy prediction By Investigation of ATAC-seq Signal
+Dockerfile for [TOBIAS](https://github.com/loosolab/TOBIAS): Transcription factor Occupancy prediction By Investigation of ATAC-seq Signal
 
 It's on [dockerhub](https://hub.docker.com/r/naotokubota/tobias) and [github](https://github.com/NaotoKubota/tobias).
 
